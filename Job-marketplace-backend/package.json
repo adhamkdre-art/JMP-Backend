@@ -1,0 +1,5 @@
+"scripts": {
+  "start": "nest start",
+  "build": "nest build",
+  "start:prod": "node dist/main.js"
+}
